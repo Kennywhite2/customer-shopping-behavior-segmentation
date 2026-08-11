@@ -10,4 +10,4 @@ The final interactive Power BI dashboard allows users to explore customer behavi
 
 ## Dashboard Preview
 
-![Customer Shopping Behavior & Segmentation Dashboard](Customer_Shopping_Behavior_Dashboard.png)
+![Customer Shopping Behavior & Segmentation Dashboard](Customer_Shopping_Behavior_Dashboard.jpg)
